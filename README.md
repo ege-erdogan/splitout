@@ -6,7 +6,7 @@
 ...
 ```
 
-## How to Run? 
+## How to Run 
 
 Make sure that all files in the same directory:
 - models.py
