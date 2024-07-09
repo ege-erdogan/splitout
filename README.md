@@ -3,7 +3,12 @@
 
 ## Citation
 ```
-...
+@article{erdogan2023splitout,
+  title={SplitOut: Out-of-the-Box Training-Hijacking Detection in Split Learning via Outlier Detection},
+  author={Erdogan, Ege and Teksen, Unat and Celiktenyildiz, Mehmet Salih and Kupcu, Alptekin and Cicek, A Ercument},
+  journal={arXiv preprint arXiv:2302.08618},
+  year={2024}
+}
 ```
 
 ## How to Run 
