@@ -49,3 +49,7 @@ Adjust the following parameters in the notebook to fit your needs from `4) Selec
 
 - data_rate_honest_gradients 
 - window_size_list
+
+## Updates
+
+**24.06.2024:** Our code is released.
