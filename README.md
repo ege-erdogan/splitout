@@ -62,3 +62,5 @@ Adjust the following parameters in the notebook to fit your needs from `4) Selec
 
 - **24.06.2024:** Our code is released.
 - **01.10.2024:** Our paper is published in [**Cryptology and Network Security. CANS 2024. Lecture Notes in Computer Science**](https://link.springer.com/chapter/10.1007/978-981-97-8016-7_6).
+
+**Keywords:** `split learning`, `training*hijacking`, `anomaly-detection`, `local-outlier-factor`, `data-privacy`
