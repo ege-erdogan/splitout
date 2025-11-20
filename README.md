@@ -19,7 +19,7 @@ Split learning enables efficient and privacy-aware training of a deep neural net
 **Cryptology and Network Security (CANS 2024):** https://doi.org/10.1007/978-981-97-8016-7_6
 https://arxiv.org/abs/2302.08618
 
-**Webpage: https://starkslab.github.io/splitout
+**Webpage:** https://starkslab.github.io/splitout
 
 ## How to Run 
 
